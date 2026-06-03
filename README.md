@@ -50,9 +50,4 @@ class LHrubisko
         'Bike tech',
         'Startups',
     ];
-
-    public function currentMission(): string
-    {
-        return 'Building useful products, clean APIs and things that make money while I sleep.';
-    }
 }
