@@ -32,6 +32,7 @@ class LHrubisko
     public array $stack = [
         'PHP 8+',
         'Laravel',
+        'Python',
         'Filament',
         'Vue',
         'Inertia.js',
